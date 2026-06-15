@@ -11,7 +11,7 @@ st.caption("Conectado en vivo con Google Sheets en la Nube")
 
 # --- CONFIGURACIÓN DE CONEXIONES ---
 SHEET_ID = "1sg1NjmlqFRmY_JoGNP_n26ZUkfgxCdeuGv666j0F0G0"
-URL_LEER_CSV = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv&gid=0"
+URL_LEER_CSV = f"https://script.google.com/macros/s/AKfycbx-1Xirl-jO74d7EA6fwFavFQRXtZm994wN5yORJ0M_nktpghHb-ZaWdprbBLUg8mFzhQ/exec"
 
 # ⚠️ REEMPLAZA ESTA URL POR LA QUE COPIASTE EN EL PASO 1
 URL_ESCRITURA_API = "AQUÍ_PEGA_TU_URL_DE_GOOGLE_APPS_SCRIPT"
